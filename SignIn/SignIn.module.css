@@ -1,0 +1,46 @@
+.firebaseui-button {
+    background: #3f51b5 !important;
+    color: #fff;
+  }
+  
+  .center-div {
+    margin: 0 auto;
+  }
+  
+  .bg-default {
+    /* background-color: #2C3E50 !important; */
+    background: transparent !important;
+  }
+  
+  .default-color-txt {
+    color: #FF2E57;
+  }
+  
+  .white-txt {
+    /* color: #D8D8D8; */
+    color: #FFFFFF;
+  }
+  
+  .navbar-brand {
+    margin-left: 5%;
+  }
+  
+  .main-nav {
+    margin-right: 5%;
+  }
+  
+.highlight {
+    background: #0674CF;
+      border-radius: 25px;
+  }
+
+  .SignIn .navbar a {
+    color: #333;
+    margin-right: 20px;
+  }
+
+  .navbar a {
+    color: #333;
+    margin-right: 20px;
+  }
+ 

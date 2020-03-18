@@ -1,0 +1,30 @@
+/* new styles */
+.banner-block img {
+    height: 500px;
+    width: 100%;
+}
+
+.banner-block {
+    width: 100%;
+}
+
+.block-title {
+    margin-top: 20px;
+}
+
+.PartnerPage .navbar a, .PartnerPage .navbar button {
+    color: #333 !important;
+}
+
+.PartnerPage .fixed-top {
+    position: relative !important;
+}
+
+.PartnerPage .navbar .newhighlight {
+    color: #fff !important;
+}
+
+.PartnerPage .navbar .newhighlight:hover {
+    color: #0674CF !important;
+}
+

@@ -1,0 +1,87 @@
+.close {
+    position: relative;
+    float: right;
+    color: #aaa;
+    right: 15px;
+    top: 10px;
+}
+
+.ReactModal__Content {
+    padding: 0 !important;
+    width: 60%;
+    margin: 0 auto;
+    height: 550px;
+    overflow: hidden !important;
+}
+
+.signup-box h2 {
+    position: absolute;
+    top: 21px;
+    font-size: 1.2rem;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+.signup-box .bannerbox img {
+    width: 100%;
+}
+
+.sign-up {
+    padding: 60px 15px 10px 0;
+    margin: 0 !important;
+}
+
+.logo img {
+    object-position: 50% 50%;
+    width: 50px;
+    height: 62px;
+    object-fit: cover;
+}
+
+.navbar a {
+    color: #fff !important;
+}
+
+.navbar a:hover {
+    color: #333 !important;
+}
+
+button.btn {
+    color: #fff;
+}
+
+#navbarCollapse {
+    justify-content: flex-end;
+}
+
+.mr-auto, .mx-auto {
+    margin-right: 5% !important;
+}
+
+.navbar-collapse.show {
+    background: rgba(0,0,0,0.7);
+    padding: 10px;
+}
+
+.navbar.scrolling {
+    background: rgba(0,0,0,0.7) !important;
+}
+
+.logo-name {
+    color: #2c9cf5;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.PartnerBoard .logo img {
+    object-position: 50% 50%;
+    width: 37px;
+    height: 37px;
+    object-fit: cover;
+}
+
+.PartnerBoard .fixed-top {
+    margin-bottom: 0px !important;
+}
+

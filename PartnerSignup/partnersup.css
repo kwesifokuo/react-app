@@ -1,0 +1,136 @@
+h4 {
+    font-family:avenir-lt-w01_35-light1475496,sans-serif;
+}
+
+.title-box {
+    text-align: center;
+}
+
+.partner-signup h2 {
+    position: absolute;
+    top: 21px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+.title-box img {
+    width: 60px;
+}
+
+.partner-form.signup {
+    /* padding-top: 8%; */
+    padding: 3% 9%;
+}
+
+.signup-box .bannerbox {
+    width: 100%;
+    /* height: 100vh; */
+    object-fit: cover;
+    background: url('../img/Signup-image.jpg');
+}
+
+.signup-title-main {
+    text-align: center;
+    color: #333;
+    font-size: 1.8rem;
+}
+
+.partner-signup .form-label {
+    margin-bottom: 0.1rem;
+    font-size: 0.9rem;
+}
+
+.partner-signup .form-group {
+    margin-bottom: 0.5rem;
+}
+
+.partner-signup .btn-block {
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+.btn.login {
+    color: #FF2E57 !important;
+    font-size: 1rem;
+    padding: 0;
+  }
+
+.already-label {
+    text-align: center;
+    width: 100%;
+    font-size: 1rem;
+    color: #555;
+}
+
+.partner-signup .form-check-label {
+    font-size: 0.9rem;
+}
+
+.form-check-input {
+    font-size: 2rem;
+}
+
+.partner-signup h4.signup-title {
+    color: #2c9cf5;
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.partner-signup .col-md-6.bannerbox {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.signup-feedback .center-div {
+    text-align: center;
+}
+
+.sign-up-resp {
+    width: 100%;
+    padding-top: 20%;
+    font-size: 1.4rem;
+}
+
+.signup-feedback .center-div h3 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+.success-color {
+    color: #008000 !important;
+}
+
+.failure-color {
+    color: #d41414 !important;
+}
+
+button.close, button.close:hover {
+    position: absolute;
+    color: #ff0000;
+}
+
+@media screen and (max-width: 600px) {
+    .partner-form {
+        position: absolute;
+        background: rgba(255,255,255,0.9);
+        width: 100%;
+        margin: 0% 4.2%;
+    }
+
+    .ReactModal__Content {
+        padding: 0 !important;
+        width: 80% !important;
+        margin: 0 auto;
+        height: 350px !important;
+        overflow: hidden !important;
+    }
+
+    .signup-feedback p {
+        font-size: 1.1rem;
+    }
+}

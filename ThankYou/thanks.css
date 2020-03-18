@@ -1,0 +1,145 @@
+/* new styles */
+.banner-block img {
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner-block img.payment {
+    height: 50px !important;
+    width: 100% !important;
+}
+
+.booking-block {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+}
+
+.block-title {
+    margin-top: 20px;
+}
+
+.TripPage .navbar a, .TripPage .navbar button {
+    color: #333 !important;
+}
+
+.TripPage .fixed-top {
+    position: relative !important;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.TripPage .navbar a.newhighlight {
+    color: #fff !important;
+}
+
+.TripPage .navbar .newhighlight:hover {
+    color: #0674CF !important;
+}
+
+.booking-block .col-md-2 {
+    line-height: 40px !important;
+    float: right;
+}
+
+.booking-block .btn {
+    max-width: 300px;
+    float: right;
+    border-radius: 2px;
+}
+
+.trip-details .dest img {
+    width: 30px;
+}
+
+#trip-direction {
+    border-radius: 15%;
+}
+
+.sweet-loading {
+    height: 100%;
+    min-height: 1800px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    padding-top: 35% !important;
+    /* left: 50%;
+    top: 35%; */
+    position: absolute;
+    z-index: 99999;
+    box-shadow: inset 0 0 0 2000px rgba(255,255,255,0.8);
+}
+
+.itin-time {
+    color: #979797;
+}
+
+.cancel-block {
+    width: 100%;
+    text-align: center;
+    padding: 0 20px 20px;
+}
+
+.cancel-block a {
+    line-height: 30px;
+    color: #FF2E57;
+    font-size: 1.62rem;
+}
+
+.payment-block, .included-block {
+    margin-top: 50px;
+}
+
+.msg-details {
+    margin-top: 10%;
+}
+
+.loading-block {
+    padding-top: 8% !important;
+}
+
+.loading-block .sweet-loading {
+    padding-top: 25% !important;
+}
+
+.thanks-feedback .inner, .loading-block {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.continue {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.loading-block .title-box, .loading-block .payment-loading {
+    z-index: 9999999999 !important;
+    position: relative;
+}
+
+.thanks-feedback .title {
+    font-weight: 600;
+}
+
+.loading-block p {
+    font-size: 1rem;
+}
+
+.amount-blue {
+    color: #2c9cf5;
+}
+
+.amount-blue .amt {
+    font-size: 1rem;
+}
+
+.amount-blue .price {
+    font-size: 1.8rem;
+}
